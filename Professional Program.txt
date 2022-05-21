@@ -1,0 +1,5 @@
+Docstring
+Function
+Exception
+Modular
+Logging instead of printing
